@@ -1,25 +1,25 @@
-# Team-1-Fernando-Martinez-YI-YI-LianSheng-Liu-
 
-Blind control
+
+# Blind control
 
 System to control a blind using a Raspberry Pi. The system has 3 different modes to control the blind:
 
-Photo sensitive control
+- Photo sensitive control
 
-Time control
+- Time control
 
-User control
+- User control
 
-Hardware
+# Hardware
 
-Photo sensitive control mode:
+- Photo sensitive control mode:
 
 Photosensitive transistor and Capacitor
 
-Time control:
+- Time control:
 
 Real time clock
 
-User control
+- User control
 
 X
