@@ -1,6 +1,6 @@
 # Intelligent Blind System
 
-System to control a blind using a Raspberry Pi. The system has 3 different modes to control the blind:
+Automatically controlled curtains that can rise and fall. The Intelligent blind system should be controled by using a Raspberry Pi. This system has three different control modes, they are shown below:
 
 - Photo sensitive control
 
