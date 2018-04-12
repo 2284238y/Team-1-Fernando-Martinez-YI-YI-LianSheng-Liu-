@@ -8,6 +8,10 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 
 - User interface control
 
+# System Block Diagram
+
+
+
 # Hardware
 
 - Photo sensitive control mode:
