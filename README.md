@@ -20,5 +20,5 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 
 - User control
 
-  X
-More details about the hardware and software can be found in the wiki (https://github.com/2284238y/Team-1-Fernando-Martinez-YI-YI-LianSheng-Liu-/wiki)
+  
+More details about the hardware design and software design can be found in the [wiki](https://github.com/2284238y/Team-1-Fernando-Martinez-YI-YI-LianSheng-Liu-/wiki)
