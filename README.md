@@ -14,17 +14,12 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 
 
 
-# Hardware
+# Components
 
-- Photo sensitive control mode:
+* Photo resistor
+  
+<img width="184" alt="2018-04-12 23 20 01" src="https://user-images.githubusercontent.com/37375752/38708106-89ce6aa4-3eac-11e8-9d23-d1b493c00c54.png">
 
-  Photosensitive transistor and Capacitor
-
-- Time control:
-
-  Real time clock
-
-- User control
-
+* 
   
 More details about the hardware design and software design can be found in the [wiki](https://github.com/2284238y/Team-1-Fernando-Martinez-YI-YI-LianSheng-Liu-/wiki)
