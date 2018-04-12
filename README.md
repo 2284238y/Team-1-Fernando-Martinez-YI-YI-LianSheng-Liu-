@@ -12,6 +12,7 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 
 
 
+
 # Hardware
 
 - Photo sensitive control mode:
