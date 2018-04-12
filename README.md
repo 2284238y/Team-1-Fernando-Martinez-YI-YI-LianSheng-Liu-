@@ -6,7 +6,7 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 
 - Time control
 
-- User control
+- User interface control
 
 # Hardware
 
@@ -21,3 +21,4 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 - User control
 
   X
+More details about the hardware and software can be found in the [Wiki](https://github.com/LaurenJA/automatic-curtain/wiki.
