@@ -1,0 +1,19 @@
+def go_up():
+    global up,down,pwm
+    if up:
+        print("Curtain is already up")
+        return
+    up = True
+    down = False
+    pwm.ChangeDutyCycle(14)
+    print("Curtains should go up")
+
+def go_down():
+    global up,down,pwm
+    if down:
+        print("Curtain is already down")
+        return
+    up = False
+    down = True
+    pwm.ChangeDutyCycle(2)
+    print("Curtains should go down")
