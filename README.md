@@ -39,5 +39,3 @@ More details about the hardware design and software design can be found in the [
 # Social media engagement
 
   Twitter: @InteBliSym [Intelligent Blind System](https://twitter.com/InteBliSym)
-
-- []**sdasd**<br />
