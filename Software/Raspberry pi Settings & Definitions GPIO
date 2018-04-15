@@ -1,0 +1,21 @@
+import RPi.GPIO as GPIO
+import time
+import datetime
+import sys
+import tkinter as tk
+import threading
+
+PIN = 7
+PWM_PIN = 3
+
+GPIO.setmode(GPIO.BOARD)
+
+GPIO.setup(PIN,GPIO.IN)
+GPIO.setup(PWM_PIN, GPIO.OUT)
+GPIO.setwarnings(False)
+
+up = False
+down = False
+
+pwm = GPIO.PWM(PWM_PIN,50)
+pwm.start(14)
