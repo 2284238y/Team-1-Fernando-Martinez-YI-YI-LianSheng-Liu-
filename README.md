@@ -40,4 +40,4 @@ More details about the hardware design and software design can be found in the [
 
   Twitter: @InteBliSym [Intelligent Blind System](https://twitter.com/InteBliSym)
 
-- [] **sdasd** <br />
+- []**sdasd**<br />
