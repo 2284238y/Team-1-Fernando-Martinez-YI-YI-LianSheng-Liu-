@@ -12,6 +12,8 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
 
 <img width="1166" alt="2018-04-12 22 46 52" src="https://user-images.githubusercontent.com/37375752/38706002-85e27a24-3ea3-11e8-862f-baba51e45647.png">
 
+# System Flow Chart
+
 
 
 # Components
