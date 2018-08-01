@@ -1,6 +1,6 @@
 # Intelligent Blind System
 
-[List of Changes]
+[List of Changes](https://github.com/2284238y/Team-1-Fernando-Martinez-YI-YI-LianSheng-Liu-/blob/master/List%20of%20Changes.txt)
 
 Automatically controlled curtains that can rise and fall. The Intelligent blind system should be controled by using a Raspberry Pi. This system has three different control modes, they are shown below:
 
