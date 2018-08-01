@@ -1,0 +1,4 @@
+List of Changes:
+(1) Upload hardware about PCB, it can be found in hardware(PCB) files.
+(2) Upload motor control code in software files.
+(3) Upload test code
