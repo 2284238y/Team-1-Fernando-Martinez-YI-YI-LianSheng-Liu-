@@ -22,9 +22,14 @@ Automatically controlled curtains that can rise and fall. The Intelligent blind 
   
 <img width="184" alt="2018-04-12 23 20 01" src="https://user-images.githubusercontent.com/37375752/38708106-89ce6aa4-3eac-11e8-9d23-d1b493c00c54.png">
 
-* Servo motor
+* Motor
 
-<img width="257" alt="2018-04-12 23 47 40" src="https://user-images.githubusercontent.com/37375752/38708095-799d1bf8-3eac-11e8-8955-a5c810a2d802.png">
+The motor PCB board can be found in the hardware(PCB) folder. The components used:
+
+Motor: 719RE380
+Motor Controller: L293D
+
+The motor PCB should be controlled using the GPIO pins on the raspberry Pi.
 
 * Battery: Adafruit Micro Lipo
 
